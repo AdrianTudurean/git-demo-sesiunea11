@@ -1,6 +1,1 @@
-Modificare de text
-
-Text nou editat pe GitHub.
-
-Salut
-Salut
+Update text pe branch-ul meu.
