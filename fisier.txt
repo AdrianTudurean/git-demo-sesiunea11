@@ -3,3 +3,5 @@ Modificare de text
 Text nou editat pe GitHub.
 
 Salut
+
+Salut Adrian, bine ai venit pe GitHub!
